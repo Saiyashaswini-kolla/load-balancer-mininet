@@ -1,0 +1,6 @@
+logs/
+random/
+*.pyc
+__pycache__/
+file.json
+*.txt
